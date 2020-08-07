@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.282a70a3.chunk.css",
-    "main.js": "/static/js/main.96517da3.chunk.js",
-    "main.js.map": "/static/js/main.96517da3.chunk.js.map",
+    "main.css": "/static/css/main.eea7edbf.chunk.css",
+    "main.js": "/static/js/main.2711c600.chunk.js",
+    "main.js.map": "/static/js/main.2711c600.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ca1726d3.js",
     "runtime-main.js.map": "/static/js/runtime-main.ca1726d3.js.map",
-    "static/js/2.03b7c886.chunk.js": "/static/js/2.03b7c886.chunk.js",
-    "static/js/2.03b7c886.chunk.js.map": "/static/js/2.03b7c886.chunk.js.map",
+    "static/js/2.3337e0e2.chunk.js": "/static/js/2.3337e0e2.chunk.js",
+    "static/js/2.3337e0e2.chunk.js.map": "/static/js/2.3337e0e2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.63dadd648c21bfa106c88eaea281b209.js": "/precache-manifest.63dadd648c21bfa106c88eaea281b209.js",
+    "precache-manifest.2255710ba4f41eb7c3019e88fad0e4c3.js": "/precache-manifest.2255710ba4f41eb7c3019e88fad0e4c3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.282a70a3.chunk.css.map": "/static/css/main.282a70a3.chunk.css.map",
-    "static/js/2.03b7c886.chunk.js.LICENSE.txt": "/static/js/2.03b7c886.chunk.js.LICENSE.txt",
+    "static/css/main.eea7edbf.chunk.css.map": "/static/css/main.eea7edbf.chunk.css.map",
+    "static/js/2.3337e0e2.chunk.js.LICENSE.txt": "/static/js/2.3337e0e2.chunk.js.LICENSE.txt",
     "static/media/Twitter-logo.svg": "/static/media/Twitter-logo.569d6308.svg",
     "static/media/github-mark.svg": "/static/media/github-mark.5871602b.svg",
+    "static/media/ictech.png": "/static/media/ictech.e0d4c147.png",
     "static/media/linkedin.svg": "/static/media/linkedin.dd983895.svg",
-    "static/media/oliver-mini.jpeg": "/static/media/oliver-mini.0582156d.jpeg"
+    "static/media/oliver-mini.jpeg": "/static/media/oliver-mini.0582156d.jpeg",
+    "static/media/tibco.svg": "/static/media/tibco.9df85f69.svg",
+    "static/media/wirelesscar-white.svg": "/static/media/wirelesscar-white.5f06ade0.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ca1726d3.js",
-    "static/js/2.03b7c886.chunk.js",
-    "static/css/main.282a70a3.chunk.css",
-    "static/js/main.96517da3.chunk.js"
+    "static/js/2.3337e0e2.chunk.js",
+    "static/css/main.eea7edbf.chunk.css",
+    "static/js/main.2711c600.chunk.js"
   ]
 }
