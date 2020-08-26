@@ -15,7 +15,6 @@
 * README
 
 # Features #
-* github deploy to github.io?
 * fav icon
 * Contact formula
 * Main logo continues animation?
