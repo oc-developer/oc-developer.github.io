@@ -9,6 +9,15 @@
 			],
 			"label": "npm: deploy",
 			"detail": "gh-pages -d build"
+		},
+		{
+			"type": "npm",
+			"script": "start",
+			"problemMatcher": [
+				"$eslint-stylish"
+			],
+			"label": "npm: start",
+			"detail": "react-scripts start"
 		}
 	]
 }
