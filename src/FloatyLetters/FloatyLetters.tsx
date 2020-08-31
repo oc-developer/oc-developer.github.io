@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
 import FloatyLetter from './FloatyLetter/FloatyLetter'
 import './FloatyLetters.css'
+import runes from 'runes'
 
 export default class FloatyLetters extends Component<FloatyLettersProps, FloatyLettersState> {
     createPhrase = () => {
-        const phraseList = this.props.phrase.split("");
+        const phraseList = runes(this.props.phrase)
         return phraseList.map((l, i) => {
             return (
                 <FloatyLetter
