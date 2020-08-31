@@ -8,6 +8,7 @@ import Header from './Header/Header'
 import Main from './Main/Main'
 import DynamicLetters from './Projects/DynamicLetters/DynamicLetters'
 import Leftbar from './Leftbar/Leftbar'
+import TestPage from './Projects/DynamicLetters/TestPage/TestPage'
 
 function App() {
   return (
@@ -16,6 +17,9 @@ function App() {
         <Header />
         <Route exact path='/floaty-letter' render={() => (
           <DynamicLetters />
+        )} />
+        <Route exact path='/test-page' render={() => (
+          <TestPage />
         )} />
         <Route exact path="/" render={() => (
           <Main />
