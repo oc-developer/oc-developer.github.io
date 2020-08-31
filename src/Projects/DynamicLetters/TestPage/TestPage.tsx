@@ -28,6 +28,44 @@ export default function TestPage() {
                 <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
                 <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
                 <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
+                <FloatyLetters maxDuration={5} minDuration={.2} phrase="Hello!"></FloatyLetters>
             </div>
         </div>
     )
