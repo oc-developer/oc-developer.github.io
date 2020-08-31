@@ -4,7 +4,7 @@ import FloatyLetters from '../../FloatyLetters/FloatyLetters'
 import DemoLetter from './DemoLetter/DemoLetter'
 
 export default function DynamicLetters() {
-    const placeholder = 'HELLO!'
+    const placeholder = 'HELLO!🥴'
     const [phrase, setPhrase] = useState('')
     const [Speed, setSpeed] = useState(1)
     const [SliderScale, setSliderScale] = useState(0)

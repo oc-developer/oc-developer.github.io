@@ -1,5 +1,4 @@
 # Bugs #
-* floaty letter does not work with emoji
 * Logo looks scales funny in the beginning on my work station.
 * Avoid hover when using touch
 * Logo looks weird on iPhone
