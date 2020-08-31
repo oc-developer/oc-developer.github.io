@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import './DynamicLetters.scss'
 import FloatyLetters from '../../FloatyLetters/FloatyLetters'
 import DemoLetter from './DemoLetter/DemoLetter'
-import TestPage from './TestPage/TestPage'
 
 export default function DynamicLetters() {
     const placeholder = 'HELLO!'
