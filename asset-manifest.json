@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3d3b0e3.chunk.css",
+    "main.css": "/static/css/main.6bc2d271.chunk.css",
     "main.js": "/static/js/main.675feea3.chunk.js",
     "main.js.map": "/static/js/main.675feea3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ca1726d3.js",
@@ -8,9 +8,9 @@
     "static/js/2.31c7225c.chunk.js": "/static/js/2.31c7225c.chunk.js",
     "static/js/2.31c7225c.chunk.js.map": "/static/js/2.31c7225c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9f49c42da982c41a062ad5e9123e8f7f.js": "/precache-manifest.9f49c42da982c41a062ad5e9123e8f7f.js",
+    "precache-manifest.1e627241c01b5ad790acc19f9a1a5045.js": "/precache-manifest.1e627241c01b5ad790acc19f9a1a5045.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f3d3b0e3.chunk.css.map": "/static/css/main.f3d3b0e3.chunk.css.map",
+    "static/css/main.6bc2d271.chunk.css.map": "/static/css/main.6bc2d271.chunk.css.map",
     "static/js/2.31c7225c.chunk.js.LICENSE.txt": "/static/js/2.31c7225c.chunk.js.LICENSE.txt",
     "static/media/Twitter-logo.svg": "/static/media/Twitter-logo.569d6308.svg",
     "static/media/github-mark.svg": "/static/media/github-mark.5871602b.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.ca1726d3.js",
     "static/js/2.31c7225c.chunk.js",
-    "static/css/main.f3d3b0e3.chunk.css",
+    "static/css/main.6bc2d271.chunk.css",
     "static/js/main.675feea3.chunk.js"
   ]
 }
