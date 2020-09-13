@@ -11,29 +11,28 @@
     #hamburger {
         opacity: 1;
     }
+    @media (hover: hover) {
+        &:hover #arrow-right {
+            animation-name: intoVisible;
+            animation-timing-function: ease-in-out;
+            animation-duration: 0.2s;
+            animation-fill-mode: forwards;
+            animation-iteration-count: 1;
+        }
 
-    &:hover #arrow-right {
-        animation-name: intoVisible;
-        animation-timing-function: ease-in-out;
-        animation-duration: 0.2s;
-        animation-fill-mode: forwards;
-        animation-iteration-count: 1;
-
-    }
-
-    &:hover #hamburger {
-        animation-name: outVisible;
-        animation-timing-function: ease-in-out;
-        animation-duration: 0.2s;
-        animation-fill-mode: forwards;
-        animation-iteration-count: 1;
-
+        &:hover #hamburger {
+            animation-name: outVisible;
+            animation-timing-function: ease-in-out;
+            animation-duration: 0.2s;
+            animation-fill-mode: forwards;
+            animation-iteration-count: 1;
+        }
+        &:hover.open #arrow-right {
+            visibility: hidden;
+        }
     }
 
     &.open #hamburger {
-        visibility: hidden;
-    }
-    &:hover.open #arrow-right {
         visibility: hidden;
     }
 }
